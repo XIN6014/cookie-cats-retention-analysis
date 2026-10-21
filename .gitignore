@@ -1,0 +1,9 @@
+.venv/
+.build/
+.chart-data-*/
+__pycache__/
+*.pyc
+.DS_Store
+resume/*.docx
+resume/*.pdf
+
